@@ -1,0 +1,33 @@
+_repo: St-Domingo-its-revolution-and-its-hero-Toussaint-Louverture_70281
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Elliott, Charles Wyllys
+    aliases:
+    - Elliott, C. W. (Charles Wyllys)
+    - Elliott, Charles W. (Charles Wyllys)
+    - White, Thomas
+    birthdate: 1817
+    deathdate: 1883
+    gutenberg_agent_id: '43954'
+    url: http://www.gutenberg.org/2009/agents/43954
+description: ''
+gutenberg_issued: '2023-03-13'
+identifiers:
+  gutenberg: '70281'
+language: en
+pgterms:marc904: https://archive.org/details/stdomingoitsrevo00elli
+pgterms:marc905: 20201117045728elliott
+pgterms:marc906: '1855'
+pgterms:marc907: US
+production_note: Bob Taylor, deaurider and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited States :$bJ. A. Dix, $c1855.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: St. Domingo, its revolution and its hero, Toussaint Louverture.
+url: http://www.gutenberg.org/ebooks/70281
